@@ -379,7 +379,7 @@
       <div class="col-lg-12">
         <div class="tabs">
           <input type="radio" name="tabs" id="tabone" checked="checked">
-          <label for="tabone">Palabras</label>
+          <label for="tabone">Inicio</label>
           <div class="tab">
             <!-- <h1>First Tab Content</h1> -->
             <img class="d-block w-100" src="assets/img/alejo/palabras.jpeg" alt="Second slide" style="border-radius: 10px;">
