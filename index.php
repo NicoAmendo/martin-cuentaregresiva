@@ -430,7 +430,7 @@
   
     <div class="container">
        <div class="copyright" style="font-size: 8px; text-align: right;padding-top: 15px;">
-        &copy; Copyright <strong><span>StratoSites by NicoAmendo</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span><a href="https://api.whatsapp.com/send?phone=541130752091&text=%C2%A1Hola%20StratoSites!">StratoSites</a></span></strong>. All Rights Reserved
       </div>
     </div>
   </footer><!-- End Footer -->
