@@ -234,7 +234,7 @@
     clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
   }
   
-  footer {
+  /* footer {
     position: fixed;
     bottom: 0;
     right: 0;
@@ -253,7 +253,7 @@
   }
   footer a:hover {
     color: #276FBF;
-  }
+  } */
   
     </style>
   
@@ -324,7 +324,7 @@
   padding: 1rem;
   background: #fff;
   padding: 20px;
-  box-shadow: -10px 10px 0px 0px black;
+  /* box-shadow: -10px 10px 0px 0px black; */
 }
  
 .tabs input[type="radio"] {
@@ -426,7 +426,14 @@
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
-
+  <footer id="footer" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500">
+  
+    <div class="container">
+       <div class="copyright" style="font-size: 8px; text-align: right;padding-top: 15px;">
+        &copy; Copyright <strong><span>StratoSites by NicoAmendo</span></strong>. All Rights Reserved
+      </div>
+    </div>
+  </footer><!-- End Footer -->
 
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
