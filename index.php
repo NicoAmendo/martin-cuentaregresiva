@@ -400,9 +400,9 @@
           <label for="tabthree">Regalo</label>
           <div class="tab">
             <!-- <h1>Third tab content</h1> -->
-            <p style="color: #62676b; font-family: 'Lato';"><br>¿Qué te puedo regalar?<br>
-            Muchos me han hecho esta pregunta, y la verdad quisiera que me acompañes ese día.<br>
             <img class="d-block w-100" src="assets/img/alejo/aslan.png" alt="Second slide" style="border-radius: 10px;">
+            <p style="color: #62676b; font-family: 'Lato';"><br>¿Qué te puedo regalar?<br>
+            Muchos me han hecho esta pregunta, y la verdad quisiera que me acompañes ese día.<br>           
             <br> — Volveremos a vernos pronto.<br>
               — Por favor, Aslan — dijo ella — , ¿a qué llamas «pronto»?<br>
               — A todo le llamo pronto — respondió él<br><br>
