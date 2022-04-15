@@ -382,7 +382,7 @@
           <label for="tabone">Palabras</label>
           <div class="tab">
             <!-- <h1>First Tab Content</h1> -->
-            <img class="d-block w-100" src="assets/img/alejo/aslan.png" alt="Second slide" style="border-radius: 10px;">
+            <img class="d-block w-100" src="assets/img/alejo/palabras.jpeg" alt="Second slide" style="border-radius: 10px;">
             <p style="color: #62676b;font-family: 'Lato';"><br>             
               Ahora sé, Señor, por qué no te pronuncias. Tú mismo eres la respuesta. Ante tu rostro los interrogantes se desvanecen. ¿Qué otra respuesta nos iba a colmar? Tan solo palabras, palabras; palabras que luchan con otras palabras.</br>
              <br><b> C.S. Lewis, Mientras no tengamos rostro</b></br></p>
