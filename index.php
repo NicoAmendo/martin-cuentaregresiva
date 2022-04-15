@@ -76,6 +76,8 @@
     font-size: 0.7em;
     letter-spacing: 5px;
     margin-top: 25%;
+    display:flex;
+    justify-content: space-between;
   }
   
   .days, .hours, .minutes, .seconds {
