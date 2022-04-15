@@ -393,7 +393,7 @@
           <div class="tab">
             <!-- <h1>Second Tab Content</h1> -->
             <img class="d-block w-100" src="assets/img/alejo/invitacion.jpeg" alt="Second slide" style="border-radius: 10px;">
-            <p style="color: #62676b; font-family: 'Lato';"><br>Te hago participe de esta alegria, por eso te espero<b>14 de mayo</b> a las 11:00 hs, en la Parroquia <b>Inmaculada Concepción</b>, Maquinista Savio.<br> Compartiremos la misa donde el obispo me hará sacerdote por la imposición de manos y oración consecratoria. </br>Luego de la ceremonia haremos un agape en el gimnasio del colegio.</br></br>¡Nos vemos ese día!</p>
+            <p style="color: #62676b; font-family: 'Lato';"><br>Te hago participe de esta alegria, por eso te espero<b> 14 de mayo</b> a las 11:00 hs, en la Parroquia <b>Inmaculada Concepción</b>, Maquinista Savio.<br> Compartiremos la misa donde el obispo me hará sacerdote por la imposición de manos y oración consecratoria. </br>Luego de la ceremonia haremos un agape en el gimnasio del colegio.</br></br>¡Nos vemos ese día!</p>
           </div>
           
           <input type="radio" name="tabs" id="tabthree">
