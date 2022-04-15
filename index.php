@@ -383,11 +383,7 @@
           <div class="tab">
             <!-- <h1>First Tab Content</h1> -->
             <img class="d-block w-100" src="assets/img/alejo/aslan.png" alt="Second slide" style="border-radius: 10px;">
-            <p style="color: #62676b;font-family: 'Lato';"><br> — Volveremos a vernos pronto.<br>
-              — Por favor, Aslan — dijo ella — , ¿a qué llamas «pronto»?<br>
-              — A todo le llamo pronto — respondió él<br><br>
-              Y la maravilla de las maravillas es que me llamó «Amado», a mí, que no soy más que un perro…<br><br>
-              Tras echar una ojeada al rostro del león saltó de la silla y cayó a sus pies. No pudo decir nada, pero lo cierto era que tampoco deseaba decir nada,</b>
+            <p style="color: #62676b;font-family: 'Lato';"><br>             
               Ahora sé, Señor, por qué no te pronuncias. Tú mismo eres la respuesta. Ante tu rostro los interrogantes se desvanecen. ¿Qué otra respuesta nos iba a colmar? Tan solo palabras, palabras; palabras que luchan con otras palabras.</br>
              <br><b> C.S. Lewis, Mientras no tengamos rostro</b></br></p>
           </div>
@@ -397,16 +393,24 @@
           <div class="tab">
             <!-- <h1>Second Tab Content</h1> -->
             <img class="d-block w-100" src="assets/img/alejo/invitacion.jpeg" alt="Second slide" style="border-radius: 10px;">
-            <p style="color: #62676b; font-family: 'Lato';"><br>Te espero el <b>14 de mayo</b> a las 11:00 hs, en la parroquia <b>Inmaculada Concepción</b>, Maquinista Savio.<br> Compartiremos la misa donde el obispo me impondrá las manos y mediante la oracipon consecratoria seré ordenado sacerdote. </br>Luego de la ceremonia haremos un agape en el gimnasio del colegio.</br>¡Te espero!</p>
+            <p style="color: #62676b; font-family: 'Lato';"><br>Te hago participe de esta alegria, por eso te espero<b>14 de mayo</b> a las 11:00 hs, en la Parroquia <b>Inmaculada Concepción</b>, Maquinista Savio.<br> Compartiremos la misa donde el obispo me hará sacerdote por la imposición de manos y oración consecratoria. </br>Luego de la ceremonia haremos un agape en el gimnasio del colegio.</br></br>¡Nos vemos ese día!</p>
           </div>
           
           <input type="radio" name="tabs" id="tabthree">
           <label for="tabthree">Regalo</label>
           <div class="tab">
             <!-- <h1>Third tab content</h1> -->
-            <p style="color: #62676b; font-family: 'Lato';">Muchos me han preguntado qué pueden regalarme, y lo único que quiero es que me acompañen ese día. Fue un largo camino el que recorrí junto a ustedes, ustedes fueron testigos de en ese camino y quisieran que esten conmigo en este momento, acompañandome ese día y rezando por mí.</p>
-            <p class="fst-italic" style="color:#4b6877;">Dios te salve, María. Llena eres de gracia, el Señor es contigo. Bendita tú eres entre todas las mujeres y bendito es el fruto de tu vientre: Jesús. Santa María, Madre de Dios, ruega por nosotros pecadores, ahora y en la hora de nuestra muerte.
-              </p>
+            <p style="color: #62676b; font-family: 'Lato';"><br>¿Qué te puedo regalar?<br>
+            Muchos me han hecho esta pregunta, y la verdad quisiera que me acompañes ese día.<br>
+            <img class="d-block w-100" src="assets/img/alejo/aslan.png" alt="Second slide" style="border-radius: 10px;">
+            <br> — Volveremos a vernos pronto.<br>
+              — Por favor, Aslan — dijo ella — , ¿a qué llamas «pronto»?<br>
+              — A todo le llamo pronto — respondió él<br><br>
+              Aunque fue largo el camino que he recorrido, para Jesús siempre es pronto.<br>Ustedes fueron testigos de ese camino, por eso, quisiera que lo compartan conmigo acompañandome ese dia como familia y rezando por mi.<br>      
+              Es la Iglesia la que como madre me acompaña y me dice:<b> No te dejaré ni te abandonaré</b>.
+            </p>
+          
+
           </div>
         </div>
 
