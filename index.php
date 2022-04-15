@@ -385,7 +385,7 @@
             <img class="d-block w-100" src="assets/img/alejo/palabras.jpeg" alt="Second slide" style="border-radius: 10px;">
             <p style="color: #62676b;font-family: 'Lato';"><br>             
               Ahora sé, Señor, por qué no te pronuncias. Tú mismo eres la respuesta. Ante tu rostro los interrogantes se desvanecen. ¿Qué otra respuesta nos iba a colmar? Tan solo palabras, palabras; palabras que luchan con otras palabras.</br>
-             <br><b> C.S. Lewis, Mientras no tengamos rostro</b></br></p>
+             <br><b> C.S. Lewis, Mientras no tengamos rostro.</b></br></p>
           </div>
       
           <input type="radio" name="tabs" id="tabtwo">
@@ -402,7 +402,7 @@
             <!-- <h1>Third tab content</h1> -->
             <img class="d-block w-100" src="assets/img/alejo/aslan.png" alt="Second slide" style="border-radius: 10px;">
             <p style="color: #62676b; font-family: 'Lato';"><br>¿Qué te puedo regalar?<br>
-            Muchos me han hecho esta pregunta, y la verdad quisiera que me acompañes ese día.<br>           
+            Muchos me han hecho esta pregunta, y la verdad el mayor regalo es que me acompañes ese día.<br>           
             <br> — Volveremos a vernos pronto.<br>
               — Por favor, Aslan — dijo ella — , ¿a qué llamas «pronto»?<br>
               — A todo le llamo pronto — respondió él<br><br>
