@@ -306,7 +306,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 1rem 0rem;
+    padding: 7px 0rem;
     margin-right: auto;
     cursor: pointer;
     background-color: #1d1a17;
